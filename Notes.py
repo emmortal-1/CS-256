@@ -41,10 +41,22 @@
 
 #print(new_words.keys())
 
-print('A long list of string variables: ', name1, ', ', name2, ', ',
-  		name3, ', ', name4, ', ', name5, ', ', name6, '.', sep='')
-	print('A long list of string variables: ' + name1 + ', ' + name2 +
-	', ' + name3 + ', ' + name4 + ', ' + name5 + ', ' + name6 + '.')
+#print('A long list of string variables: ', name1, ', ', name2, ', ',
+  		#name3, ', ', name4, ', ', name5, ', ', name6, '.', sep='')
+	#print('A long list of string variables: ' + name1 + ', ' + name2 +
+	#', ' + name3 + ', ' + name4 + ', ' + name5 + ', ' + name6 + '.')
       
-	print(f'A long list of string variables: {name1}, {name2}, {name3}, '
-     	 f'{name4},{name5}, {name6}.')
+	#print(f'A long list of string variables: {name1}, {name2}, {name3}, '
+     	# f'{name4},{name5}, {name6}.')
+      
+#fruits_Dict = { "banana": 1.99, "apple": 0.99, "orange": 1.49, "grapes": 2.99, "kiwi": 0.49, "watermelon": 4.99, "strawberry": 3.99, "blueberry": 2.99, "mango": 1.99, "pineapple": 2.99 }
+	
+#for fruit in fruits_Dict:
+	#print(fruit)	
+	#print(fruits_Dict)
+ 
+#counter = 0
+#while counter < 10:
+#	counter += 1
+#	print(counter)
+#rint("Done!")
