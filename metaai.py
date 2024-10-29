@@ -6,7 +6,7 @@ from huggingface_hub import login
 from accelerate import dispatch_model
 
 # Authenticate with Hugging Face
-login(token="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")
+login(token="")
 
 model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
 
